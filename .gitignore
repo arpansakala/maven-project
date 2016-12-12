@@ -5,5 +5,5 @@ target
 .project
 .settings
 mule-project.xml
-activemq-data
+activemq-data/
 derby.log
